@@ -70,3 +70,13 @@
 **Thoughts**: Also made quite a bit of progress today, aiming to get a heartbeat done at some point so I can make some cool statistics page that tells the admin the amount of active users and other statistics like that.
 
 **Link(s) to work**: [BSS-TrafficControl](https://github.com/MrBisquit/BSS-TrafficControl/)
+
+### Day 4: 11th September 2023
+
+**Today's Progress**:
+- Added some new features but didn't really do much.
+- Started on a settings page in the admin panel.
+
+**Thoughts**: I didn't really get much today but hopefully I'll get more done tommorow.
+
+**Link(s) to work**: [BSS-TrafficControl](https://github.com/MrBisquit/BSS-TrafficControl/)
