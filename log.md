@@ -80,3 +80,14 @@
 **Thoughts**: I didn't really get much today but hopefully I'll get more done tommorow.
 
 **Link(s) to work**: [BSS-TrafficControl](https://github.com/MrBisquit/BSS-TrafficControl/)
+
+### Day 5: 12th September 2023
+
+**Today's Progress**:
+- Got some documentation done
+- Added settings (Not ability to save yet)
+- Wrote a getting-started markdown page about getting started, still WIP so it's not complete.
+
+**Thoughts**: I got a bit done today, not as much as I had hoped but atleast I did about 1 hour+ of coding!
+
+**Link(s) to work**: [BSS-TrafficControl](https://github.com/MrBisquit/BSS-TrafficControl/)
